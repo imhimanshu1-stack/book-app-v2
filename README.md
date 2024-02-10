@@ -9,7 +9,7 @@ According to the Bureau of Labour Statistics, the average American spent 23 minu
 
 __How this app solve the problem__:
 This book app solves the problem by making use of technology to motivate people to read more. It allows people to record the books they have read (Library), set a goal for number of books to read (Reading Challenge), writing their own book reviews (Blog), and read articles regarding any popular books (Book Recommendations). 
-
+<br>
 ## Below are the five main pages:
 
 ### Login Page
