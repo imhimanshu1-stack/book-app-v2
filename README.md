@@ -13,8 +13,8 @@ This book app solves the problem by making use of technology to motivate people 
 Below are the __five main pages__:
 
 ## Login Page
-#### enter username, password
-#### skills: Python, flask, Login Manager, User Mixin, login required, logout
+__enter username, password__
+__skills__: Python, flask, Login Manager, User Mixin, login required, logout
 
 ## Library
 #### storing book info, indicating book is read, edit book info
