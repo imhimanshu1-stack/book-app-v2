@@ -30,9 +30,9 @@ __skills__: Python, flask, MongoDB, request methods (GET, POST), Javascript, mod
 
 ## Book Recommendations
 __sharing articles from other website regarding hot books__<br>
-__skills__: Javascript, Ajax, JQuery
+__skills__: Javascript, Ajax, JQuery <br>
 
-Other compontents:
+__Other compontents:__
 
 ## Admin Dashboard
 __drawer menu__<br>
