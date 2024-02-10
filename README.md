@@ -13,7 +13,8 @@ This book app solves the problem by making use of technology to motivate people 
 Below are the __five main pages__:
 
 ## Login Page
-__enter username, password__ <br>
+__enter username, password__ 
+<br>
 __skills__: Python, flask, Login Manager, User Mixin, login required, logout
 
 ## Library
