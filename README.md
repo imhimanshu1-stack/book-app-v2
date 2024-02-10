@@ -21,19 +21,19 @@ __storing book info, indicating book is read, edit book info__ <br>
 __skills__: Javascript, Object and constructors, local storage
 
 ## Reading Challenge
-__set goals for no. of books to read, display progress bar__
+__set goals for no. of books to read, display progress bar__<br>
 __skills__: Javascript, local storage
 
 ## Blog
-__adding, updating, and deleting book reviews__
+__adding, updating, and deleting book reviews__<br>
 __skills__: Python, flask, MongoDB, request methods (GET, POST), Javascript, modal, ajax
 
 ## Book Recommendations
-__sharing articles from other website regarding hot books__
+__sharing articles from other website regarding hot books__<br>
 __skills__: Javascript, Ajax, JQuery
 
 Other compontents:
 
 ## Admin Dashboard
-__drawer menu__
+__drawer menu__<br>
 __skills__: HTML CSS, flexbox, grid
