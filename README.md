@@ -13,28 +13,27 @@ This book app solves the problem by making use of technology to motivate people 
 Below are the __five main pages__:
 
 ## Login Page
-__enter username, password__ 
-<br>
+__enter username, password__ <br>
 __skills__: Python, flask, Login Manager, User Mixin, login required, logout
 
 ## Library
-#### storing book info, indicating book is read, edit book info
-#### skills: Javascript, Object and constructors, local storage
+__storing book info, indicating book is read, edit book info__ <br>
+__skills__: Javascript, Object and constructors, local storage
 
 ## Reading Challenge
-#### set goals for no. of books to read, display progress bar
-#### skills: Javascript, local storage
+__set goals for no. of books to read, display progress bar__
+__skills__: Javascript, local storage
 
 ## Blog
-#### adding, updating, and deleting book reviews
-#### skills: Python, flask, MongoDB, request methods (GET, POST), Javascript, modal, ajax
+__adding, updating, and deleting book reviews__
+__skills__: Python, flask, MongoDB, request methods (GET, POST), Javascript, modal, ajax
 
 ## Book Recommendations
-#### sharing articles from other website regarding hot books
-#### skills: Javascript, Ajax, JQuery
+__sharing articles from other website regarding hot books__
+__skills__: Javascript, Ajax, JQuery
 
 Other compontents:
 
 ## Admin Dashboard
-#### drawer menu
-#### Skills: HTML CSS, flexbox, grid
+__drawer menu__
+__skills__: HTML CSS, flexbox, grid
