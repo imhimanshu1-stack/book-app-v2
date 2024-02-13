@@ -9,7 +9,7 @@ from flask_login import LoginManager, UserMixin, current_user, login_user, logou
 #Blog page
 import json 
 import datetime
-from flask import Flask, request, jsonify, render_template, redirect
+from flask import Flask, request, render_template, redirect, json
 from flask_mongoengine import MongoEngine
 import random 
 
@@ -17,12 +17,18 @@ import random
 
 
 app = Flask(__name__, template_folder='template', static_folder = 'static')
+# app.config['MONGODB_SETTINGS'] = {
+#     'db': 'BlogApp',
+#     'host': 'localhost',
+#     'port': 27017
+# }
+# app.config['SECRET_KEY'] = 'supersecretstring123456789' #'super secret string'
+# db = MongoEngine()
+# db.init_app(app)
 app.config['MONGODB_SETTINGS'] = {
-    'db': 'BlogApp',
-    'host': 'localhost',
-    'port': 27017
+    'host': 'mongodb+srv://social_diary:6msX4D3vqh6tCIur@cluster0.itbpgit.mongodb.net/BlogApp?retryWrites=true&w=majority'
 }
-app.config['SECRET_KEY'] = 'supersecretstring123456789' #'super secret string'
+app.config['SECRET_KEY'] = 'supersecretstring123456789'
 db = MongoEngine()
 db.init_app(app)
 
@@ -233,7 +239,7 @@ def recommend_page():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=9000, debug=True)
 
 
 
