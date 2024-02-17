@@ -26,7 +26,7 @@ app = Flask(__name__, template_folder='template', static_folder = 'static')
 # db = MongoEngine()
 # db.init_app(app)
 app.config['MONGODB_SETTINGS'] = {
-    'host': 'mongodb+srv://social_diary:6msX4D3vqh6tCIur@cluster0.itbpgit.mongodb.net/BlogApp?retryWrites=true&w=majority'
+    'host': 'mongodb+srv://social_diary:38CWCJjC4bjHSqlr@cluster0.itbpgit.mongodb.net/BlogApp?retryWrites=true&w=majority'
 }
 app.config['SECRET_KEY'] = 'supersecretstring123456789'
 db = MongoEngine()
